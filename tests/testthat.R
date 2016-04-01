@@ -1,0 +1,6 @@
+library(testthat)
+library(vancomycin)
+library(dplyr)
+library(purrr)
+library(tibble)
+test_check("vancomycin")
