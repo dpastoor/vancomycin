@@ -3,6 +3,9 @@
 #' @param pma postmentstral age, weeks
 #' @param scr serum creatinine mg/dl
 #' @details
+#' Mehrotra, N., Tang, L., Phelps, S. J. & Meibohm, B. Evaluation of vancomycin
+#' dosing regimens in preterm and term neonates using Monte Carlo simulations.
+#' Pharmacotherapy 32, 408–419 (2012)
 #' @export
 CLi_mehrotra <- function(wt, pma, scr) {
   TVCL <- 0.18 # L/hr
@@ -20,6 +23,9 @@ CLi_mehrotra <- function(wt, pma, scr) {
 #' calculates Vi L for an individual
 #' @param wt weight in kg
 #' @details
+#' Mehrotra, N., Tang, L., Phelps, S. J. & Meibohm, B. Evaluation of vancomycin
+#' dosing regimens in preterm and term neonates using Monte Carlo simulations.
+#' Pharmacotherapy 32, 408–419 (2012)
 #' @export
 Vi_mehrotra <- function(wt) {
   TVV <- 1.75 # L/hr

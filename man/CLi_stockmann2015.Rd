@@ -4,21 +4,21 @@
 \alias{CLi_stockmann2015}
 \title{calculates clearance in L/hr for an individual}
 \usage{
-CLi_stockmann2015(wt, pma, cr)
+CLi_stockmann2015(wt, pma, scr)
 }
 \arguments{
 \item{wt}{weight in kg}
 
 \item{pma}{postmentstral age, weeks}
 
-\item{cr}{serum creatinine mg/dl}
+\item{scr}{serum creatinine mg/dl}
 }
 \description{
 calculates clearance in L/hr for an individual
 }
 \details{
-Stockmann, C. et al. Predictive Performance of a Vancomycin 
-Population Pharmacokinetic Model in Neonates. 
+Stockmann, C. et al. Predictive Performance of a Vancomycin
+Population Pharmacokinetic Model in Neonates.
 Infect Dis Ther 4, 187–198 (2015).
 }
 
