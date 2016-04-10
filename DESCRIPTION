@@ -1,8 +1,8 @@
 Package: vancomycin
 Type: Package
 Title: utilities related to vancomycin clinical research
-Version: 0.0.1
-Date: 2016-03-28
+Version: 0.0.2
+Date: 2016-04-10
 Authors@R: c(
     person("Devin", "Pastoor",
     email = "devin.pastoor@gmail.com", role = c("aut", "cre")))
