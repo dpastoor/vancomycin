@@ -3,8 +3,8 @@
 #' @details
 #' From the Red Book 2012
 #' \tabular{lll}{
-#' serum creatinine \tab dose \tab interdose interval
-#' mg/dL   \tab mg/kg \tab hr\cr
+#' serum creatinine \tab dose \tab interdose interval\cr
+#' (mg/dL)   \tab (mg/kg) \tab (hrs)\cr
 #' < 0.7   \tab 15    \tab 12\cr
 #' 0.7-0.9 \tab 20    \tab 24\cr
 #' 1-1.2   \tab 15    \tab 24\cr
