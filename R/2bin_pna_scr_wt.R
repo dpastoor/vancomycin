@@ -1,6 +1,6 @@
 #' dosing nomogram based on post natal age and serum creatinine
 #' @param pna post natal age (days)
-#' @param scr serum creatinine umol/L
+#' @param scr serum creatinine (umol/L)
 #' @param wt weight (kg)
 #' @details
 #' as used in publications Anderson et al, 2007; Allegaert et al., 2007;
