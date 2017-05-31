@@ -9,7 +9,7 @@ dosing_2bin_pna_scr_wt(pna, scr, wt)
 \arguments{
 \item{pna}{post natal age (days)}
 
-\item{scr}{serum creatinine umol/L}
+\item{scr}{serum creatinine (umol/L)}
 
 \item{wt}{weight (kg)}
 }
@@ -25,4 +25,3 @@ kimura et al., 2004 -
 PNA 1-7 days, serum creatinine > 71 umol/L: 15 mg/kg every 12 hrs;
 PNA > 7 days: 15 mg/kg every 8 hrs
 }
-

@@ -22,4 +22,3 @@ as used in publication Madigan, Theresa et al. "Optimization of Vancomycin
 Dosing in Very Low-Birth-Weight Preterm Neonates." 
 American journal of perinatology 32.1 (2015): 83–86. PMC. Web. 27 Mar. 2016.
 }
-

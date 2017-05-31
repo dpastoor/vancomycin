@@ -17,4 +17,3 @@ Stockmann, C. et al. Predictive Performance of a Vancomycin
 Population Pharmacokinetic Model in Neonates.
 Infect Dis Ther 4, 187–198 (2015).
 }
-

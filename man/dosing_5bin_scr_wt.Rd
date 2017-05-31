@@ -27,4 +27,3 @@ serum creatinine \tab dose \tab interdose interval\cr
 > 1.6   \tab 15    \tab 48
 }
 }
-

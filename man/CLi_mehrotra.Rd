@@ -21,4 +21,3 @@ Mehrotra, N., Tang, L., Phelps, S. J. & Meibohm, B. Evaluation of vancomycin
 dosing regimens in preterm and term neonates using Monte Carlo simulations.
 Pharmacotherapy 32, 408–419 (2012)
 }
-
