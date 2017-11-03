@@ -1,6 +1,6 @@
 #' dosing nomogram based on post natal age and serum creatinine
 #' @param pna post natal age (days)
-#' @param scr serum creatinine (umol/L)
+#' @param scr serum creatinine (mg/dL)
 #' @param wt weight (kg)
 #' @details
 #' as used in publications Anderson et al, 2007; Allegaert et al., 2007;
@@ -10,9 +10,9 @@
 #' @return dataframe with DOSE and II columns
 #' @export
 dosing_2bin_pna_scr_wt <- function(pna, scr, wt) {
-   if (pna > 1 & pna <= 7 & scr > 71) {
+   if (pna > 1 & pna <= 7 & scr > 71/88.4) {
        return(data.frame(DOSE = 15*wt, II = 12))
-   } else if (pna > 7 & scr > 71) {
+   } else if (pna > 7 & scr > 71/88.4) {
      return(data.frame(DOSE = 15*wt, II = 8))
    } else {
   # covers pna < 1 or scr < 71 as this algorithm did not have a suggestion for those
