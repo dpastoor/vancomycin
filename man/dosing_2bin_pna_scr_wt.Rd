@@ -9,7 +9,7 @@ dosing_2bin_pna_scr_wt(pna, scr, wt)
 \arguments{
 \item{pna}{post natal age (days)}
 
-\item{scr}{serum creatinine (umol/L)}
+\item{scr}{serum creatinine (mg/dL)}
 
 \item{wt}{weight (kg)}
 }
